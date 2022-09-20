@@ -1,18 +1,18 @@
 ---
-title: Tag
+title: Laytou
 nav:
   title: components
   path: /components
   order: 1
 group:
-  title: 通用
-  path: /common
-  order: 0
+  title: 布局
+  path: /Layouts
+  order: 1
 ---
 
-# Tag
+# Laytou
 
-一个随意的 Tag 组件。
+一个随意的 Laytou 组件。
 
 ## 代码演示
 

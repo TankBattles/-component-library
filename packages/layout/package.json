@@ -1,0 +1,35 @@
+{
+  "name": "@keith/layout",
+  "version": "0.0.0",
+  "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
+  "keywords": [],
+  "author": "huzhen <v_vzhennhu@tencent.com>",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "es",
+    "dist"
+  ],
+  "peerDependencies": {
+    "antd": "4.x",
+    "react": ">=16.9.0",
+    "react-dom": ">=16.9.0"
+  },
+  "publishConfig": {
+    "registry": "https://mirrors.tencent.com/npm/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TankBattles/-component-library.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/@keith/button.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/TankBattles/-component-library/issues"
+  },
+  "homepage": "https://github.com/TankBattles/-component-library#readme"
+}

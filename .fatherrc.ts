@@ -5,7 +5,7 @@ import { join } from 'path';
 // runtime must build before renderer-react
 // components dependencies order: form -> table -> list
 
-const headPkgs: string[] = ['button', 'tag']; // 添加button和tag
+const headPkgs: string[] = ['button', 'tag', 'icon', 'layout']; // 添加button和tag
 const tailPkgs = readdirSync(join(__dirname, 'packages')).filter(
   (pkg) => pkg.charAt(0) !== '.' && !headPkgs.includes(pkg),
 );

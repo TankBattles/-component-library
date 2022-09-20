@@ -7,6 +7,7 @@ nav:
 group:
   title: 通用
   path: /common
+  order: 0
 ---
 
 # Button

@@ -1,5 +1,5 @@
 ---
-title: Tag
+title: Icon
 nav:
   title: components
   path: /components
@@ -10,9 +10,9 @@ group:
   order: 0
 ---
 
-# Tag
+# Icon
 
-一个随意的 Tag 组件。
+一个随意的 Icon 组件。
 
 ## 代码演示
 
